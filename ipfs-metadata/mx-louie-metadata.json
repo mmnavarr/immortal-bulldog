@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Bulldog"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Mexico National Team Kit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ray-Bans"
+    }
+  ],
+  "description": "Dale! dale! dale!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbTC6ygiXUAmUG75m5GMGQ9Qt9maGykQ6s7zutXnsr5Ss",
+  "name": "MX Louie"
+}

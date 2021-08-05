@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Bulldog"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cuban Link Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sutro Oakley"
+    }
+  ],
+  "description": "New Phone Who This?",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUqJwSKMeBR7xxeatmtgsY3ok4s4tjzwtdvXXCcQZhCTp",
+  "name": "NPWT Louie"
+}
